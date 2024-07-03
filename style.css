@@ -34,8 +34,8 @@ body {
     top: 280px;
     animation: obstacle 1s infinite linear;
 }
-.animation {
-    animation: jump 1s infinite;
+.animate {
+    animation: jump 500ms;
 }
 
 @keyframes obstacle{
