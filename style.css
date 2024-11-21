@@ -25,6 +25,8 @@ body {
    
 }
 
+
+/* 780px original left object */
 #obstacle {
     width: 20px;
     height: 40px;
@@ -40,7 +42,7 @@ body {
 
 @keyframes obstacle{
     0% {left: 780px;}
-    100% {left: -2px;}
+    100% {left: -10px;}
 }
 
 @keyframes jump {
